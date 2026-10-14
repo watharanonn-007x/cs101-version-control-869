@@ -1,1 +1,5 @@
-# cs101-version-control-869
+# My CS Profile
+
+## About Me
+- Name: Natchawath Wayharanon
+- Major: Computer Science
